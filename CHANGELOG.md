@@ -1,5 +1,8 @@
 # Changes
 
+## 1.1.3
+- Update json-editor to 2.10.0
+
 ## 1.1.2
 - Allow string or dict form data
 - Update json-editor to 1.3.5
